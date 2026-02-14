@@ -8,3 +8,5 @@ function calcularMDC(a, b) {
 }
 
 console.log("O MDC de 24 e 18 é:", calcularMDC(24, 18));
+
+module.exports = calcularMDC;

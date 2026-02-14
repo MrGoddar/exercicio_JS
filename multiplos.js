@@ -9,3 +9,5 @@ function somarMultiplos() {
 }
 
 console.log("A soma dos múltiplos de 5 ou 7 abaixo de 1000 é:", somarMultiplos());
+
+module.exports = somarMultiplos;
